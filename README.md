@@ -1,3 +1,6 @@
+Visit My YouTube Channel learn in more details (https://www.youtube.com/@codingmstr)
+Visit my Website to download Project Source Code (https://codingmstr.com)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
